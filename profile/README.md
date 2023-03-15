@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/V2-Digital/.github/raw/main/astronaut-500x410.webp" alt="astronaut" height="410" width="500">
+  <img src="https://github.com/V2-Digital/.github/raw/main/astronaut-500x410.webp" alt="astronaut" height="auto" width="500">
   <h2>
     <p>V2 is a digital native consultancy for leading brands.</p>
     <p>We re-define digital models, re-invent experiences and build intelligent platforms, underpinned by modernised ways of working.</p>
