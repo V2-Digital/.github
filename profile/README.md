@@ -6,3 +6,7 @@
   </h2>
   <h3 style="margin-top: 1rem">To create your digital next, visit <a href="https://v2.digital">v2.digital</a> or get in touch via <a href="mailto:info@v2.digital">info@v2.digital</a></h3>
 </div>
+
+<div align="center">
+Copyright (c) V2 Digital. All rights reserved.
+</div>
