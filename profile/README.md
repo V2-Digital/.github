@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/V2-Digital/.github/raw/main/astronaut-500x410.webp" alt="astronaut" height="auto" width="500">
+  <img src="https://github.com/V2-ai/.github/raw/main/astronaut-500x410.webp" alt="astronaut" height="auto" width="500">
   <h2>
-    <p>V2 is a digital native consultancy for leading brands.</p>
-    <p>We re-define digital models, re-invent experiences and build intelligent platforms, underpinned by modernised ways of working.</p>
+    <p>V2 is an AI-native consultancy for leading brands.</p>
+    <p>We build intelligent platforms, underpinned by modernised ways of working.</p>
   </h2>
-  <h3 style="margin-top: 1rem">To create your digital next, visit <a href="https://v2.digital">v2.digital</a> or get in touch via <a href="mailto:info@v2.digital">info@v2.digital</a></h3>
+  <h3 style="margin-top: 1rem">To create your AI next, visit <a href="https://v2.ai">v2.ai</a> or get in touch via <a href="mailto:info@v2.ai">info@v2.ai</a></h3>
 </div>
 
 <div align="center">
-Copyright (c) V2 Digital. All rights reserved.
+Copyright (c) V2 ai. All rights reserved.
 </div>
